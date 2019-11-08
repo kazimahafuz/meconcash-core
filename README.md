@@ -16,3 +16,8 @@ https://github.com/mecon-coin/meconcash-explorer
 
 ### Docker Hub
 https://hub.docker.com/r/meconcash/meconcash/
+
+### QtWallet Download
+https://github.com/mecon-coin/meconcash-core/blob/master/doc/meconcash-qt_v8.exe
+
+contact us : mecon.coin@gmail.com
